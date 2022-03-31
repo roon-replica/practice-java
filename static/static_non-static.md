@@ -26,6 +26,7 @@ public class Calculator {
   - [sample code from my previous github](https://github.com/auddl0756/DesignPattern/commit/23e44017e487d52609004ba3fbbd20245079696b)
 - 단점(주의할 점?)
   - outer filed 접근 가능
+  - .class file decompile 해보면 생성자 param에 outer class로의 참조 존재함 (implicitly done)
 
 ``` java
 // in java.util.HashMap
