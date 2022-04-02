@@ -1,5 +1,7 @@
 [stackexchange 글 - static vs non-static 사용 예시](https://softwareengineering.stackexchange.com/questions/238782/why-prefer-non-static-inner-classes-over-static-ones)
 
+member class (inner class)에 대한 이야기임
+
 ## 1. static
 - enum이 대표적 
   - enum type is implicitly static
