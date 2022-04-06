@@ -1,6 +1,7 @@
+package multithreads;
+
 class ThreadExample {
     public static void main(String[] args) throws InterruptedException {
-        int x = 120;
         Result result = new Result();
 
         for (int i = 0; i < 10000; i++) {
