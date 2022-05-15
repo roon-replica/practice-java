@@ -11,6 +11,7 @@
 
 - 추가로 알게된 것들
     - class cast
+    - 인터페이스에 정의된 상수는 자동으로 public static final이라고 함
 
 
 - 의문점들
