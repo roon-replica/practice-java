@@ -12,8 +12,13 @@
 - 추가로 알게된 것들
     - class cast
     - 인터페이스에 정의된 상수는 자동으로 public static final이라고 함
+    - 정렬(Comparable 인터페이스)
+      - 모든 클래스가 Comparable 인터페이스를 구현해서 정렬을 하도록 설계되어 있음
 
 
-- 의문점들
+- 의문점들, 이해안되는 내용
   - 왜 인터페이스는 public 접근만 허용하도록 설계되었나
+  - 인터페이스에 메서드를 추가하는 것이 "바이너리 수준에서 호환된다"는게 무슨 말인지..
+  - Variable used in lambda expression should be final or effectively final 오류 발생 원인
+    - 실행 스택, 람다 캡처링, java의 메모리 구조(call by value)에 대한 이해와 관련되어 있음
 
