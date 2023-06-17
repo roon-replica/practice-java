@@ -1,4 +1,4 @@
-package lowlevel;
+package multithreads.volatile_example;
 
 public class VolatileThread extends Thread {
     private final VolatileData data;

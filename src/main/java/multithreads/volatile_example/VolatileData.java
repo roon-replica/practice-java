@@ -1,4 +1,4 @@
-package lowlevel;
+package multithreads.volatile_example;
 
 // https://docs.oracle.com/cd/E19683-01/806-5222/codingpractices-1/index.html
 

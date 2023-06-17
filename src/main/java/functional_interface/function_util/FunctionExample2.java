@@ -1,4 +1,4 @@
-package interface_lambda.lambda.library;
+package functional_interface.function_util;
 
 
 // Runnalbe
@@ -17,7 +17,7 @@ import java.util.concurrent.atomic.AtomicReference;
 import java.util.function.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class FunctionExample2 {
     public static void main(String[] args) {
         Supplier<String> HELLO_SUPPLIER = () -> "HELLO";
         System.out.println(HELLO_SUPPLIER.get());

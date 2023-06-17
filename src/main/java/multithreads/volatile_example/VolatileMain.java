@@ -1,4 +1,4 @@
-package lowlevel;
+package multithreads.volatile_example;
 
 class VolatileMain {
     private static final int threadCount = 2;

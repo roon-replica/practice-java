@@ -1,4 +1,4 @@
-package interface_lambda.lambda;
+package functional_interface.function_util;
 
 @FunctionalInterface
 public interface CustomFunction {

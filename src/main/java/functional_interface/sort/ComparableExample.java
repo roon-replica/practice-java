@@ -1,4 +1,4 @@
-package interface_lambda.library.sort;
+package functional_interface.sort;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 // Runnable
 // EventHandler(GUI 용도)
 
-public class comparable {
+public class ComparableExample {
     public static void main(String[] args) {
         Employee[] employees = new Employee[]{new Employee(3), new Employee(2), new Employee(1)};
 

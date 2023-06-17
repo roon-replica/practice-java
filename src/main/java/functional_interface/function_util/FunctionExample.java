@@ -1,4 +1,4 @@
-package java_util_function;
+package functional_interface.function_util;
 
 // lambda
 //   - 익명함수
